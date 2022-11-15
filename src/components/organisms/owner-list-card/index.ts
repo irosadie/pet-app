@@ -1,0 +1,1 @@
+export {default as OwnerListCard} from './owner-list-card.organism' 

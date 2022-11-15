@@ -1,0 +1,1 @@
+export {default as OwnerDetail} from './owner-detail.screen'

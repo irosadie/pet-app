@@ -1,0 +1,1 @@
+export {default as IconRectangle} from './icon-rectangle.atomic'

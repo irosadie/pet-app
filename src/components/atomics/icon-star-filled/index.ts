@@ -1,0 +1,1 @@
+export {default as IconStarFilled} from './icon-star-filled.atomic'

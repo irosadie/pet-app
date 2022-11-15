@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/sircular-std/Circular-Std-Medium.ttf",
+      "sha1": "1cf1bc631570ea7fcef96495bdc1ee59946ff0c8"
+    },
+    {
+      "path": "src/assets/fonts/sircular-std/CircularStd-Bold.ttf",
+      "sha1": "879abb2579e83ab43c09aad8fa78f2d614ace077"
+    },
+    {
+      "path": "src/assets/fonts/sircular-std/CircularStd-Normal.otf",
+      "sha1": "30db93beebd1118923a42c17251bac5e341b3d9f"
+    },
+    {
+      "path": "src/assets/fonts/sf-pro-text/SF-Pro-Text-Semibold.otf",
+      "sha1": "087203e93cc00eeca8a6b11bc26461da94c66565"
+    }
+  ]
+}

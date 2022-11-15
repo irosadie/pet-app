@@ -1,0 +1,1 @@
+export {default as OwnerList} from './owner-list.screen'
